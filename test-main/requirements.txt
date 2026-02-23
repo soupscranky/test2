@@ -1,4 +1,0 @@
-seleniumbase
-imap-tools
-python-dotenv
-requests
